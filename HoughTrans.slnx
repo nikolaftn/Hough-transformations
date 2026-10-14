@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HoughTrans.vcxproj" Id="4b709419-dad8-45b4-ba1b-71345b3b263a" />
+</Solution>
